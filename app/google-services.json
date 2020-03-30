@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "716161485282",
+    "firebase_url": "https://mad-firestore-8824f.firebaseio.com",
+    "project_id": "mad-firestore-8824f",
+    "storage_bucket": "mad-firestore-8824f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716161485282:android:b882a3dca7183fbcadd1bb",
+        "android_client_info": {
+          "package_name": "com.phoenixapps.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716161485282-uslth57divjdd37n04ac8q4t6ts221n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnd8Ojga2f01R6vXcu1_I_LbITLjF5SV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716161485282-uslth57divjdd37n04ac8q4t6ts221n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
